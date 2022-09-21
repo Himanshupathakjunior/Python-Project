@@ -1,0 +1,8 @@
+Name: MANISH KUMAR
+Addhar Number: 123456789012
+Date of Birth: 15-1-2001
+Father Name: ABC
+Mother Name: XYZ
+Address: 256 SIWAN BIHAR 841233
+Criminal charge: MURDER
+Criminal charge: RAPE
